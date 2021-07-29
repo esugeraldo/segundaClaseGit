@@ -4,7 +4,6 @@ public class Prueba {
 
 	private String estoNoEsNada;
 
-	
 	public Prueba(String estoNoEsNada) {
 		super();
 		this.estoNoEsNada = estoNoEsNada;
@@ -22,5 +21,4 @@ public class Prueba {
 	public String toString() {
 		return "Prueba [estoNoEsNada=" + estoNoEsNada + "]";
 	}
-	
 }
