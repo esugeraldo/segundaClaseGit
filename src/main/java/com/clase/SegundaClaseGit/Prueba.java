@@ -3,6 +3,7 @@ package com.clase.SegundaClaseGit;
 public class Prueba {
 
 	private String estoNoEsNada;
+	private String estoEsParaElPull;
 
 	public Prueba(String estoNoEsNada) {
 		super();
